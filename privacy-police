@@ -2,25 +2,25 @@
 
 **Last Updated:** 04.23.2025 
 
-## Data Collection  
-This extension does not:  
-- Collect any personal information  
-- Track user behavior  
-- Store trading data or market information  
+## Data Collection
+This Chrome extension ("Trading Checklist") does not collect, store, or transmit any personal or sensitive user data.
 
-## Data Storage  
-The extension only stores:  
-- Checklist progress (locally via chrome.storage)  
-- UI position preferences  
-- Extension on/off state  
+## Information Stored Locally
+The extension uses Chrome's storage.local API to save only:
+- Checklist progress
+- Window position preferences
+- On/off toggle state
 
-All data remains on the user's device and is never transmitted externally.  
+All data remains exclusively on the user's device and is never shared with any servers or third parties.
 
-## Permissions Explanation  
-- **storage**: Saves checklist state between sessions  
-- **activeTab**: Detects TradingView chart interactions  
-- **<all_urls>**: Allows overlay functionality across websites  
+## Permissions
+- `storage`: Required to save checklist state between browser sessions
+- `activeTab`: Needed to detect TradingView chart interactions
+- `<all_urls>`: Allows the overlay to work across all websites
 
-## Contact  
+## Changes to This Policy
+Updates will be posted at this URL. Continued use constitutes acceptance.
+
+## Contact
 For questions: kiyooplanet9991@gmail.com
 
