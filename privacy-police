@@ -1,0 +1,25 @@
+# Trading Checklist Extension Privacy Policy
+
+**Last Updated:** [Date]  
+
+## Data Collection  
+This extension does not:  
+- Collect any personal information  
+- Track user behavior  
+- Store trading data or market information  
+
+## Data Storage  
+The extension only stores:  
+- Checklist progress (locally via chrome.storage)  
+- UI position preferences  
+- Extension on/off state  
+
+All data remains on the user's device and is never transmitted externally.  
+
+## Permissions Explanation  
+- **storage**: Saves checklist state between sessions  
+- **activeTab**: Detects TradingView chart interactions  
+- **<all_urls>**: Allows overlay functionality across websites  
+
+## Contact  
+For questions: your.email@domain.com  
